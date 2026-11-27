@@ -3,7 +3,7 @@
 ## Auteurs
 - STITOU, Ranya — `ranyast`
 - LALLEMENT, Antoine — `AntoineLal`
-- Groupe : `<Gr-xx>`
+- Groupe : `<Gr-03>`
 
 ## Prérequis
 - Service Onyxia **vscode-pyspark** (Spark 3.5, Python 3.x) avec accès S3 : variables `LAB_BUCKET_NAME`, `AWS_S3_ENDPOINT`, `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_SESSION_TOKEN` (injectées par Onyxia), AWS CLI.
@@ -14,9 +14,11 @@
 | | |
 |---|---|
 | Nom | `running_data_france_final.csv` — sessions de course d'athlètes français en 2020 |
-| URL | `<à compléter : lien Kaggle d'origine>` |
+| URL | `(https://www.kaggle.com/datasets/mexwell/long-distance-running-dataset?select=run_ww_2020_d.csv)` |
 | Licence | `<à compléter>` |
-| Date de téléchargement | `<à compléter>` |
+| Date de téléchargement | `11/11/2026` |
+| 1er Traitement | `Filtrer sur les Athlètes francais` |
+| 2ème traitement | `ne garder que 180 d'entre eux` |
 | Taille | 4,48 Mo (65 880 lignes, 9 colonnes, 180 athlètes × 366 jours) |
 
 Le fichier d'origine a été **réduit** pour respecter la contrainte de 1 à 5 Mo du sujet : `<à compléter : méthode exacte, par ex. sous-échantillon de N athlètes>`.
