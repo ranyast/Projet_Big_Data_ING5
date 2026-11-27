@@ -1,8 +1,8 @@
 # Fréquence des sessions et vitesse de course : les plus rapides sont-ils les plus assidus ?
 
 ## Auteurs
-- NOM1, Prénom1 — `<git username>`
-- NOM2, Prénom2 — `<git username>`
+- STITOU, Ranya — `ranyast`
+- LALLEMENT, Antoine — `AntoineLal`
 - Groupe : `<Gr-xx>`
 
 ## Prérequis
